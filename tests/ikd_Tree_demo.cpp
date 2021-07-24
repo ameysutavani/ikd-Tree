@@ -1,4 +1,4 @@
-#include "ikd_Tree.h"
+#include <ikd_tree/ikd_Tree.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <random>
